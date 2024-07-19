@@ -8,7 +8,6 @@ export default function Home() {
         src="/bg.mp4"
         autoPlay
         loop
-        muted
       ></video>
       <div className="absolute inset-0 bg-black opacity-80 z-[-1]"></div>
       hi ryu
